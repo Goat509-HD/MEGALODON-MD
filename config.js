@@ -60,7 +60,7 @@ module.exports = {
     
      ANTILINK: process.env.ANTILINK || "false",
     
-    ANTI_VV: process.env.ANTI_VV || "false",  
+    ANTI_VV: process.env.ANTI_VV || "true",  
     // Block view-once messages?
     DELETE_LINKS: process.env.DELETE_LINKS || "false",  
     // Auto-delete links?
