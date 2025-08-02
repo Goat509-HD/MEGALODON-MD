@@ -49,7 +49,7 @@ module.exports = {
     ANTI_DELETE: process.env.ANTI_DELETE || "true",
     ANTI_CALL: process.env.ANTI_CALL || "true",
 
-    REJECT_MSG: process.env.REJECT_MSG || "*📞 ᴄαℓℓ ɴσт αℓℓσωє∂ ιɴ тнιѕ ɴᴜмвєʀ уσυ ∂σɴт нανє ᴘєʀмιѕѕισɴ 📵*",
+    REJECT_MSG: process.env.REJECT_MSG || "*📞 sorry to didnt respond to you pls call mh again 📵*",
     ANTI_BAD: process.env.ANTI_BAD || "false",                  // Block bad words?
 
     ANTI_LINK_KICK: process.env.ANTILINK_KICK || "false",
